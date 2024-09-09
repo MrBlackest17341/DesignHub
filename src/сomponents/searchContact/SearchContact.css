@@ -30,12 +30,14 @@
 
 .search-blue {
     background-color: #40A6FF;
-    border: 1px solid  #40A6FF;
-    color: #ffff;
+    border: 1px solid #40A6FF;
+    color: #fff; 
 }
+
 
 .contact-button {
     background-color: #EFEFEF;
     border: 1px solid #DDD;
     align-items: center;
+
 }

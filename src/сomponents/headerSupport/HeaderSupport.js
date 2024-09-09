@@ -26,8 +26,8 @@ const HeaderSupport = () => {
                 </ul></li>
 								<li className="header__nav-li"><Link to="/vacancies">Vacancies</Link></li>
 								<li className="header__nav-li"><a href="#">Specialists</a></li>
-								<li className="header__nav-li"><a href="#">Education</a></li>
-								<li className="header__nav-li"><a href="#">Support</a></li>
+								<li className="header__nav-li"><a href="/education">Education</a></li>
+								<li className="header__nav-li"><a href="/support">Support</a></li>
 							</ul>
 						</nav>
 				</div>
